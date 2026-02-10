@@ -4,9 +4,7 @@ A React Native (Expo) MVP for a Binance-style crypto app: markets list, coin det
 
 ## Demo
 
-<video src="./assets/demo/demo-1th.mp4" controls width="320" muted loop playsinline></video>
-
-*If the video does not show above, open [assets/demo/demo-1th.mp4](./assets/demo/demo-1th.mp4) directly.*
+![App demo](./assets/demo/demo-1th.gif)
 
 ## Stack
 
